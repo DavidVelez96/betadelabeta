@@ -1,0 +1,15 @@
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\bin\Debug\netstandard2.0\SQLiteDemo.deps.json
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\bin\Debug\netstandard2.0\SQLiteDemo.dll
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\bin\Debug\netstandard2.0\SQLiteDemo.pdb
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.csprojAssemblyReference.cache
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.App.xaml.g.cs
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.MainPage.xaml.g.cs
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.Vistas.UI_ConsultaRegistro.xaml.g.cs
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.Vistas.UI_Elemento.xaml.g.cs
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.Vistas.UI_Login.xaml.g.cs
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.Vistas.UI_Registro.xaml.g.cs
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.AssemblyInfoInputs.cache
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.AssemblyInfo.cs
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.dll
+D:\Nueva carpeta\SQliteForms-master\SQliteForms-master\SQLiteDemo\SQLiteDemo\SQLiteDemo\obj\Debug\netstandard2.0\SQLiteDemo.pdb
